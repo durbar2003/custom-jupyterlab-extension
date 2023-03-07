@@ -25,7 +25,7 @@
   "style": "style/index.css",
   "repository": {
     "type": "git",
-    "url": "https://github.com/github_username/jupyterlab_test.git"
+    "url": "https://github.com/durbar2003/custom-jupyterlab-extension.git"
   },
   "scripts": {
     "build": "jlpm build:lib && jlpm build:labextension:dev",
