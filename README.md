@@ -1,2 +1,2 @@
 # custom-jupyterlab-extension
-Custom Jupyterlab Extension 
+Custom Dummy Jupyterlab Extension 
